@@ -1,2 +1,2 @@
 # gpu-watchdog
-NVidia GPU temperature monitor and fan/power optimizer for Linux
+Nvidia GPU temperature monitor and fan/power optimizer for Linux (Ubuntu 18.04 LTS).
